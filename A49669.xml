@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last years intelligencer in burlesq.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49669</idno><idno type="EEBO-CITATION">9348312</idno>
+  <idno type="VID">42797</idno>
+  <idno type="EEBO-PROQUEST">2264214748</idno>
+  
+            <idno type="STC">Wing L535</idno>
+            <idno type="STC">ESTC R26080</idno>
+            <idno type="OCLC">09348312</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last years intelligencer in burlesq.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: 1662.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  1660-1714 --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:42797:1"/>
+            <head>1662. THE LAST YEARS INTELLIGENCER In BURLESQ.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>MERCURIUS PUBLICUS</hi> in verse</l>
+                  <l>Although it be not very terse,</l>
+                  <l>Doth yet the <hi>Sum</hi> of <hi>News</hi> comprise,</l>
+                  <l>Partly in <hi>Truth,</hi> and partly <hi>Lies,</hi>
+                  </l>
+                  <l>All that's on foot in the three <hi>Nations</hi>
+                  </l>
+                  <l>For the good <hi>Peoples Informations;</hi>
+                  </l>
+                  <l>And as it dedicated was</l>
+                  <l>To th' <hi>Author</hi> of Sir <hi>HUDIBRAS.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <lg>
+               <head>JANUARY.</head>
+               <l>THe Prince <hi>de la Grange</hi> whilom of <hi>Lincolns-Inn</hi>
+               </l>
+               <l>Who set all that House on so merry a pin,</l>
+               <l>(Entertained the <hi>King,</hi> and the Ladies with Sweet-meat,</l>
+               <l>With Pleading, and Dancing, and many a fine-feat)</l>
+               <l>Was Knighted by name of <hi>Rise-up Sir John Lort,</hi>
+               </l>
+               <l>A Knight in good earnest, though Prince but in sport.</l>
+               <l>But all this is nothing to what the <hi>News</hi> saith</l>
+               <l>How <hi>Christians</hi> at <hi>Edinbrough</hi> converted to th' Faith,</l>
+               <pb n="2" facs="tcp:42797:2"/>
+               <l> To shew their Profession was true and sincere</l>
+               <l>Did keep the high <hi>Feast</hi> in <hi>Minc'd-pye</hi> and good cheer.</l>
+               <l>Then to shew us how strangely some men are deceiv'd</l>
+               <l>That <hi>Mary</hi> 'thout sin was Born, and Conceiv'd</l>
+               <l>The <hi>Pope</hi> has of <hi>Faith</hi> it an <hi>Article</hi> made</l>
+               <l>To keep in repute the <hi>Infallible</hi> trade.</l>
+            </lg>
+            <lg>
+               <head>Advertisements.</head>
+               <l>ONe pretty young trotting roan-colour'd <hi>Mare</hi>
+               </l>
+               <l>With a whey bristl'd main, and her tayl half bare,</l>
+               <l>Having five white feet, and a large wall-eye,</l>
+               <l>Of a dozen years old, and thirteen hands high,</l>
+               <l>Was lost; with a motly coloured <hi>Bitch</hi>
+               </l>
+               <l>Spotted all o're as if she had the Itch.</l>
+               <l>These losses and crosses do shrewdly portend</l>
+               <l>Some great Revolution of <hi>State</hi> is at hand</l>
+               <l>'Mongst <hi>Faulkners,</hi> and <hi>Hunts-men,</hi> and Lovers o'th' Game,</l>
+               <l>Fore-told by Black-mondays <hi>Ecclipse</hi> 'ere it came.</l>
+               <l>Those famous <hi>Lozenges</hi> hight <hi>Pectoral,</hi>
+               </l>
+               <l>Approv'd for <hi>Consumptions,</hi> and Diseases all,</l>
+               <l>From <hi>Plague</hi> to <hi>Prick'd-finger,</hi> by <hi>Thomas Buck—worth</hi>
+               </l>
+               <l>Nothing, are sold at <hi>Mile-end</hi> and so forth.</l>
+               <l>An <hi>Aegyptian Mummie</hi> show'd with <hi>Hieroglyphicks,</hi>
+               </l>
+               <l>But with no <hi>Oration</hi> like the <hi>Philippies;</hi>
+               </l>
+               <l>From <hi>Lybian</hi> Sands, and neer to Town <hi>Memphis,</hi>
+               </l>
+               <l>(Of which there is mention in <hi>Thomas a Kempis</hi>)</l>
+               <l>Was after two thousand five hundred Years</l>
+               <l>Brought into the <hi>Strand</hi> to be seen, as appears.</l>
+               <l>We would fain have ended this Moneth without malice,</l>
+               <l>But <hi>Mors</hi> had a pique at my good <hi>Lord Cornwallis.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:42797:2"/>
+               <head>FEBRUARY.</head>
+               <l>OUr Bishops abus'd by some ignorant Flirter,</l>
+               <l>Was Whip'd by <hi>Le Strange</hi> for his <hi>Animadverter.</hi>
+               </l>
+               <l>If any Sweet <hi>Lady</hi> suspect her own <hi>Kisses,</hi>
+               </l>
+               <l>One <hi>Turner</hi> can give her approv'd <hi>Dentifrices.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>New Books.</head>
+               <l>
+                  <hi>LE Reading del mon Seignior</hi> my <hi>Lord Cooke</hi>
+               </l>
+               <l>Was publish'd in print, 'tis thought in some Book;</l>
+               <l>Do's any young <hi>Student</hi> care to know what that is</l>
+               <l>Let him turn to the <hi>Statute de Clunibus levatis.</hi>
+               </l>
+               <l>Or if he affect our <hi>Poetic Essays</hi>
+               </l>
+               <l>There are newly publish'd <hi>One and twenty Plays,</hi>
+               </l>
+               <l>With <hi>Olios, Orations,</hi> and all in new dresses</l>
+               <l>By one of our <hi>thrice noble Marchionesses.</hi>
+               </l>
+               <l>For <hi>Caudles,</hi> and <hi>Jellies</hi> and many such knacks</l>
+               <l>To strengthen both <hi>Elders</hi> and <hi>Presbyters</hi> backs</l>
+               <l>In spite of proud <hi>Praelats</hi> (I tell you no storie)</l>
+               <l>A Lady has set forth a Choyce <hi>Directorie.</hi>
+               </l>
+               <l>This Moneth the great <hi>Wind</hi> blew down Chimney-tunnell,</l>
+               <l>Had it blown <hi>up</hi> the <hi>Hearths</hi> too (good troth) it had done ill,</l>
+               <l>For those who maligne our blessed <hi>Kings</hi> Revenue,</l>
+               <l>'Tis believ'd would have payed Him never a pennie.</l>
+               <l>The Virtues of the <hi>Antimonial</hi> Cup,</l>
+               <l>(Whereof you need take but a pound at one sup)</l>
+               <l>Do's cure all <hi>Diseases</hi> without the least danger</l>
+               <l>By the time one may gallop from <hi>London</hi> to <hi>Tangir.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:42797:3"/>
+               <head>MARCH.</head>
+               <l>PRince <hi>Charles</hi> of <hi>Lorrain</hi> as fast as horse would goe,</l>
+               <l>Went Post from <hi>Vienna</hi> to kiss the <hi>Popes</hi> good-toe;</l>
+               <l>And thence to <hi>Vienna</hi> he rode back again,</l>
+               <l>For which (it is said) he had's labour for's pain.</l>
+            </lg>
+            <lg>
+               <head>APRIL.</head>
+               <l>ANother Edition of <hi>Help to Discourse,</hi>
+               </l>
+               <l>(In which there's as much Wit as in my old horse)</l>
+               <l>With a curious new Volume of <hi>State</hi> and <hi>Court Jests</hi>
+               </l>
+               <l>To be us'd in the <hi>City</hi> and <hi>Aldermens</hi> Feasts.</l>
+            </lg>
+            <lg>
+               <head>MAY.</head>
+               <l>
+                  <hi>STurgeons Male</hi> and <hi>Female;</hi> at <hi>Hampton</hi> came in</l>
+               <l>Portending the meeting of our gracious Queen</l>
+               <l>With King <hi>Charles</hi> (heavens bless him) just as who should say</l>
+               <l>I think He was born to be Married in <hi>May.</hi>
+               </l>
+               <l>This Moneth our <hi>Scots-brethren</hi> being in a good mood,</l>
+               <l>Six <hi>Bishops</hi> did consecrate at <hi>Holy-Rood,</hi>
+               </l>
+               <l>With promise they'd never be such Knaves and Fools</l>
+               <l>To fling at their heads again Chairs and Joynt-stools.</l>
+               <l>But now see our <hi>Queen</hi> arriv'd at <hi>Hampton-Court,</hi>
+               </l>
+               <l>To which the whole Kingdom did make their resort:</l>
+               <l>VVhat kissing of hand! what loud acclamation</l>
+               <l>By <hi>Londons Recorder</hi> with <hi>Spanish</hi> Oration</l>
+               <l>In <hi>Moote-French</hi> was there! to see Ladies in dresses</l>
+               <l>Not like us poor Subjects, but all like <hi>Queen-Besses,</hi>
+               </l>
+               <l>Or hundred <hi>Maid marrians</hi> in Ginger-bread-past,</l>
+               <l>VVith wide <hi>Peticoat,</hi> and fine slender VVast.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:42797:3"/>
+               <head>JUNE.</head>
+               <l>LOrd <hi>Verulams Bushell</hi> long out of his Wits,</l>
+               <l>Made now an Agreement with those of <hi>Row-pits,</hi>
+               </l>
+               <l>Where through five tall Mountains, he now the sixt cuts;</l>
+               <l>For he makes it nothing to rake in <hi>Hells</hi> guts,</l>
+               <l>Get <hi>Gold</hi> out of <hi>Flints,</hi> squeeze Aire through the Hills</l>
+               <l>By Pipe, and great Bellows, which turn the <hi>Wind-mills</hi>
+               </l>
+               <l>His head is so full of; but this is not all,</l>
+               <l>He melts Lead with Lightning to spare our Coal-small:</l>
+               <l>In hermitage-<hi>Grotto</hi> writes many fine fancies,</l>
+               <l>And sends to <hi>Man in Moon</hi> by internunce <hi>Gances.</hi>
+               </l>
+               <l>But if all these Miracles will not yet charm ye,</l>
+               <l>At <hi>Oxford</hi> he once did clothe all the <hi>Kings Armie.</hi>
+               </l>
+               <l>Not <hi>Herc'les</hi>'s Labours to his comparable</l>
+               <l>VVhen he slew the fell <hi>Dragon,</hi> and clens'd the foul Stable,</l>
+               <l>All which so much cry'd up, are not worth a Louse;</l>
+               <l>Master <hi>Bushell</hi> will set up a <hi>Solomon</hi>'s-<hi>house.</hi>
+               </l>
+               <l>Sir <hi>Henry Vane</hi> that so long was extoll'd,</l>
+               <l>On <hi>Tow'r-Hill</hi> was this Moneth for <hi>Treason</hi> decoll'd.</l>
+            </lg>
+            <lg>
+               <head>JULY.</head>
+               <l>QUeen <hi>Christin</hi> as if sh'ad been tost in a blanket,</l>
+               <l>Comes again now to <hi>Rome</hi> where she had a brave banquet,</l>
+               <l>At which she disputed in <hi>French, Greek</hi> and <hi>Latin,</hi>
+               </l>
+               <l>Not in <hi>Peticotos</hi> but <hi>Breeches</hi> of Sattin.</l>
+               <pb n="6" facs="tcp:42797:4"/>
+               <l> Ken ye well why the <hi>French-Ambassador</hi> yet</l>
+               <l>Has made her no Visit 'till he know where to sit,</l>
+               <l>On Joynt-stool or Chair, at left-hand, or right,</l>
+               <l>For which there's two <hi>Couriers</hi> sent <hi>Post</hi> day and night,</l>
+               <l>To bring word from <hi>Paris,</hi> and from King of <hi>France,</hi>
+               </l>
+               <l>Alas, What's eight-hundred miles for a <hi>French Dance!</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Advertisements.</head>
+               <l>NEw Books this Moneth publish'd; first comes Mr. <hi>Hobbs</hi>
+               </l>
+               <l>Consider'd, or not; with a many dry bobbs.</l>
+               <l>The <hi>Shepher-sheba,</hi> and <hi>Anti-baal-berith,</hi>
+               </l>
+               <l>Confounding the Covenant from <hi>Edenbrough</hi> to <hi>Erith.</hi>
+               </l>
+               <l>
+                  <hi>Chocolata's</hi> true history for the <hi>Mully-grubbs,</hi>
+               </l>
+               <l>And help <hi>Kinder-maken</hi> by Proselyte <hi>Stubbs;</hi>
+               </l>
+               <l>VVith many more Pieces of wondrous strange Titles,</l>
+               <l>Some writ by good Scholars, and some by Dull-betles.</l>
+            </lg>
+            <lg>
+               <head>AUGUST.</head>
+               <l>HIs <hi>Holiness</hi> quarrels this Moneth with Duke <hi>Crequy,</hi>
+               </l>
+               <l>In which there were shot, &amp; slain many a <hi>French-Laquay;</hi>
+               </l>
+               <l>This anger has lost the <hi>Pope</hi> City <hi>Avinion;</hi>
+               </l>
+               <l>But 'twill all come to nothing some are of opinion.</l>
+               <l>In <hi>Ireland</hi> his <hi>Grace</hi> (Father of Lord <hi>Ossery</hi>)</l>
+               <l>'Mongst Vassals whose speech is <hi>Fragulian Chessery,</hi>
+               </l>
+               <l>Did bathe his <hi>Bootes</hi> in Sea from knees to the heels,</l>
+               <l>To invite the lost <hi>Fishing,</hi> and good <hi>Salmon-peals;</hi>
+               </l>
+               <l>Such virtue in Leather there is on <hi>Dukes</hi> foot,</l>
+               <l>As made simple Fishes swim thither a trot,</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:42797:4"/>
+               <head>SEPTEMBER.</head>
+               <l>THe Prince of <hi>Bavaria</hi> that he might remember</l>
+               <l>VVhen he comes to ripe Age, this Moneth of <hi>September,</hi>
+               </l>
+               <l>VVas Christned by name <hi>Maximilian</hi>
+               </l>
+               <l>
+                  <hi>Innumerabil. Constinopolitan;</hi>
+               </l>
+               <l>
+                  <hi>Lodovicus, Francisc, Ignace, Antonîus,</hi>
+               </l>
+               <l>
+                  <hi>Jose, Nicolas, Felix,</hi> and last of all <hi>Pius</hi>
+               </l>
+               <l>By the <hi>Praelate</hi> of <hi>Tegen,</hi> lest men should miscall,</l>
+               <l>Or <hi>Saint</hi> take unkindly, he nam'd him names all.</l>
+               <l>The <hi>Rump</hi> newly risen from tedious Session,</l>
+               <l>The right honest <hi>Speaker</hi> dy'd with a Confession,</l>
+               <l>That all they pretended was nought but Confusion:</l>
+               <l>May more <hi>Knaves</hi> have grace to make such a conclusion.</l>
+               <l>Some thing I should here say of <hi>Pulve Sympathetic,</hi>
+               </l>
+               <l>Which cures all Diseases that are <hi>Hypothetic;</hi>
+               </l>
+               <l>If any the like to compose should desire,</l>
+               <l>'Tis to be prepar'd by <hi>Promethean-Fire.</hi>
+               </l>
+               <l>VVhat other strange wonders it do's bring to pass,</l>
+               <l>Recommend we your <hi>Patient</hi> to Sir <hi>Hudibras.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>OCTOBER.</head>
+               <l>GReat talk there was now of <hi>Herrings,</hi> and <hi>Busses,</hi>
+               </l>
+               <l>And one <hi>Rowland Pepin</hi> for making good <hi>Trusses,</hi>
+               </l>
+               <l>'Gainst <hi>Burstnesse,</hi> and <hi>Ruptures,</hi> and all such loose things,</l>
+               <l>But that damn'd disease of our <hi>Merchants</hi> Purse-strings.</l>
+               <l>Room, room for — my <hi>Lord Mayor</hi> comes,</l>
+               <l>VVith <hi>Whifflers,</hi> and <hi>Pageants,</hi> soft Fifes and lowd Drums;</l>
+               <pb n="8" facs="tcp:42797:5"/>
+               <l> Some marching on horses, and some on foot trudge,</l>
+               <l>Some dighted in Scarlet, Gold-chains, and in Budge;</l>
+               <l>To see the Worlds-wonder, <hi>Pauls Church</hi> walk on foot,</l>
+               <l>The great <hi>Tow'r</hi> of <hi>London</hi> pluck'd up by the root;</l>
+               <l>All born on mens shoulders, like <hi>Elephants</hi> Castles,</l>
+               <l>Or, as on my <hi>Lords-horse</hi> his crimson-red Tassles.</l>
+            </lg>
+            <lg>
+               <head>NOVEMBER.</head>
+               <l>THe next gallant sight was th' Ambassador of <hi>Mosco,</hi>
+               </l>
+               <l>From Countrey far like his Chin o're-grown with <hi>Bosco;</hi>
+               </l>
+               <l>With black-<hi>Fox,</hi> and <hi>Ermine, Hawkes, Carpets</hi> and <hi>Sables;</hi>
+               </l>
+               <l>
+                  <hi>Sea-morse</hi>-tooth, <hi>Bows, Arrows,</hi> and <hi>Hemp to</hi> make <hi>Cables.</hi>
+               </l>
+               <l>Two brave <hi>Persian</hi> Pransers lead by beards in green,</l>
+               <l>All born for a <hi>Present</hi> to <hi>King,</hi> and to <hi>Queen.</hi>
+               </l>
+               <l>A wondrous fine <hi>Pupet-play Bartholomew</hi> Fair</l>
+               <l>Shew'd, where the small <hi>Manikins</hi> danc'd in the air;</l>
+               <l>But oh! the rare <hi>Butter-fly,</hi> you'd swear were alive,</l>
+               <l>All singing in <hi>Musique</hi> with <hi>Recitative.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>DECEMBER.</head>
+               <l>NOw was the <hi>Extraction</hi> of <hi>Genoüa Guioco,</hi>
+               </l>
+               <l>Set up by no <hi>Cheat,</hi> but some fine subtil Rooko:</l>
+               <l>'Tis hung out as <hi>Licence,</hi> in book, in the <hi>Lent</hi> is</l>
+               <l>Of <hi>Faculty-Office,</hi> when time to repent is</l>
+               <l>For eating of <hi>Flesh,</hi> at so damn'd dear a rate,</l>
+               <l>Sound <hi>Wench</hi> would be Cheaper, unless the <hi>Price bate.</hi>
+               </l>
+            </lg>
+            <p>
+               <hi>London,</hi> Printed in the Year 1663.</p>
+            <pb facs="tcp:42797:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
